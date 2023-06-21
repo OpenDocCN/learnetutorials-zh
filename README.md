@@ -6,7 +6,7 @@
 > 
 > 人最大的痛苦就是说一些自己都不相信的话。——燕京学堂鹿会
 
-* [在线阅读](https://let.apachecn.org)
+* [在线阅读](https://let.flygon.net)
 ## 下载
 
 ### Docker
